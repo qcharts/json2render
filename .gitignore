@@ -77,3 +77,4 @@ tslint.json
 docs/
 lib/
 data/
+packages/*
