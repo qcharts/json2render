@@ -1,2 +1,3 @@
-# site
-site for dev and docs
+# json2render
+
+use json to render qcharts graphics
