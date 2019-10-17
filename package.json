@@ -1,7 +1,7 @@
 {
-  "name": "@qcharts/json2qcharts",
+  "name": "@qcharts/json2render",
   "version": "0.0.2",
-  "description": " git@github.com:qcharts/json2qcharts.git",
+  "description": "git@github.com:qcharts/json2qcharts.git",
   "main": "lib/index.js",
   "scripts": {
     "build": "npx babel src --out-dir lib --source-maps",
