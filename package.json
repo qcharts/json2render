@@ -1,6 +1,6 @@
 {
   "name": "@qcharts/json2render",
-  "version": "0.0.2",
+  "version": "0.0.1",
   "description": "git@github.com:qcharts/json2qcharts.git",
   "main": "lib/index.js",
   "scripts": {
